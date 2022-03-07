@@ -1,4 +1,4 @@
-# jep
+# javaini
 
 > java 表达式解析器
 
@@ -14,6 +14,12 @@
 maven 的 `settings.yml` 配置 sonatype 中央仓库：
 
 ```xml
+<mirror>
+    <id>mvnrepository</id>
+    <mirrorOf>mvnrepository</mirrorOf>
+    <url>http://mvnrepository.com/</url>
+</mirror>
+
 <mirror>
     <id>sonatype</id>
     <mirrorOf>sonatype</mirrorOf>
