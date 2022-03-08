@@ -19,14 +19,14 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/lyy289065406/jvm-agent.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:lyy289065406/jvm-agent.git</developerConnection>
-        <url>https://github.com/lyy289065406/jvm-agent</url>
+        <connection>scm:git:https://github.com/lyy289065406/jep.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:lyy289065406/jep.git</developerConnection>
+        <url>https://github.com/lyy289065406/jep</url>
     </scm>
 
     <groupId>com.exp-blog</groupId>
-    <artifactId>jvm-agent</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <artifactId>jep</artifactId>
+    <version>3.4.0-SNAPSHOT</version>
 
     <properties>
         <java.version>1.8</java.version>
