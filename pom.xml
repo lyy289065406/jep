@@ -24,9 +24,13 @@
         <url>https://github.com/lyy289065406/jep</url>
     </scm>
 
+    <name>jep</name>
+    <description>java expression parser</description>
+    <url>https://github.com/lyy289065406/jep</url>
+
     <groupId>com.exp-blog</groupId>
     <artifactId>jep</artifactId>
-    <version>3.4.0-SNAPSHOT</version>
+    <version>3.4.0</version>
 
     <properties>
         <java.version>1.8</java.version>
